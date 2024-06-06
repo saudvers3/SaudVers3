@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saudvers3&theme=onestar" alt="saudvers3" /></a> </p>
 
-- 🔭 I’m currently learning on **C Language**
+- 🔭 I’m currently learning **C Language**
 
 </div><h3 align="left">Languages and Tools:</h3>
 
